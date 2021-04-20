@@ -1,2 +1,2 @@
 # Shutdown Timer Windows
-shutdown timer for windows (free pascal)
+shutdown timer for windows (object pascal)
